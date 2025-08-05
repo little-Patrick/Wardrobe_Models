@@ -1,4 +1,4 @@
-# Retail Customer Churn Prediction
+<h1 align='center'>Retail Customer Churn Prediction</h1>
 
 This project focuses on predicting customer churn for a retail e-commerce business using machine learning. The goal is to identify customers at risk of leaving the platform and understand the factors driving churn. These insights enable the business to implement targeted retention strategies, improve customer satisfaction, and reduce churn rates.
 
