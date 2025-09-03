@@ -32,35 +32,7 @@ The repository is organized into the following directories:
 - **Model Development**: Build and evaluate machine learning models tailored to specific business problems.
 - **Integration**: Models are designed to integrate seamlessly with the PySide Qt application for real-time data analysis.
 
-## Getting Started
-
-### Prerequisites
-- Python 3.8 or higher
-- Jupyter Notebook
-- Required Python libraries (install via `requirements.txt` if available)
-
-### Running the Notebooks
-1. Navigate to the desired directory (e.g., `customer_churn`).
-2. Open the Jupyter notebook (e.g., `retail_churn_ensemble_lab.ipynb`).
-3. Follow the instructions in the notebook to preprocess data, train models, and evaluate results.
-
 ### Using the Models in the PySide Application
 1. Export the trained models from the notebooks.
 2. Integrate the models into the PySide Qt application for customer data exploration.
 
-## Contributing
-
-Contributions are welcome! If you have ideas for new models, datasets, or features, feel free to fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Acknowledgments
-
-- The datasets used in this repository are for educational purposes.
-- Special thanks to the contributors and the open-source community for their support.
-
----
-
-Happy modeling!
